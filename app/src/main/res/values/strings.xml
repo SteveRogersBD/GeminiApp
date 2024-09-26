@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatGptAPI</string>
+    <string name="apiKey">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</string>
+    <string name="geminiKey">AIzaSyDk0_Ar996a49JX_ZbEUjUpN089gj3sSuM</string>
+</resources>
