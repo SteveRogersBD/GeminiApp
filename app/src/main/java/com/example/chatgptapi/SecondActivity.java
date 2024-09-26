@@ -54,6 +54,7 @@ public class SecondActivity extends AppCompatActivity {
                     messageList.add(newMessage);
                     chatAdapter.notifyDataSetChanged();
                     binding.mainRecycler.smoothScrollToPosition(messageList.size());
+                    binding.textEt.setText("");
                     callGemini(query);
                 }
             }
